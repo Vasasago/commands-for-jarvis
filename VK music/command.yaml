@@ -1,0 +1,14 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Open music.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - включи музыку
+  - запусти музыку
+  - хочу послушать музыку

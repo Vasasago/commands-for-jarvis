@@ -1,0 +1,60 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Run browser.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой браузер
+  - запусти браузер
+
+- command:
+    action: ahk
+    exe_path: ahk/Close browser.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - закрой браузер
+  - выключи браузер
+
+- command:
+    action: ahk
+    exe_path: ahk/Run youtube.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой ютуб
+  - ютуб
+  - запусти ютуб
+
+- command:
+    action: ahk
+    exe_path: ahk/Run kinopoisk.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой кинопоиск
+  - открой кино поиск
+  - запусти кинопоиск
+  - запусти кино поиск
+  - хочу посмотреть фильм
+  - включи кино
