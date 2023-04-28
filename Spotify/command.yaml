@@ -29,21 +29,7 @@ list:
 
 - command:
     action: ahk
-    exe_path: ahk/Next music.exe
-    exe_args:
-  voice:
-    sounds:
-    - ok1
-    - ok2
-    - ok3
-  phrases:
-  - включи музыку
-  - запусти музыку
-  - хочу послушать музыку
-
-- command:
-    action: ahk
-    exe_path: ahk/Next music.exe
+    exe_path: ahk/Next track.exe
     exe_args:
   voice:
     sounds:
@@ -60,7 +46,7 @@ list:
 
 - command:
     action: ahk
-    exe_path: ahk/Prev music.exe
+    exe_path: ahk/Prev track.exe
     exe_args:
   voice:
     sounds:
@@ -75,3 +61,21 @@ list:
   - предыдущая песня
   - включи предыдущую песню
   - включи предыдущий трек
+
+- command:
+    action: ahk
+    exe_path: ahk/Pause.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - поставь музыку на паузу
+  - поставь на паузу
+  - пауза
+  - сними с паузы
+  - убери паузу
+  - продолжай играть музыку
