@@ -1,0 +1,14 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/pause.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - пауза
+  - поставь на паузу
+  - сними с паузы
