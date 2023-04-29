@@ -3,7 +3,7 @@ If ErrorLevel = 0
 {
 ; APP IS NOT RUNNING
 ; Run https://music.yandex.ru/home
-Run C:\Users\Vassago\PycharmProjects\ChatleyAssistant\YandexMusic
+Run shell:AppsFolder\A025C540.Yandex.Music_vfvw9svesycw6!App
 ; Autoplay
 sleep 5000
 Send, {Ctrl down}p{Ctrl up}

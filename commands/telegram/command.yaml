@@ -1,0 +1,34 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Open telegram.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - запусти телеграмм
+  - открой телеграмм
+  - включи телеграмм
+  - запусти телеграм
+  - открой телеграм
+  - включи телеграм
+
+- command:
+    action: ahk
+    exe_path: ahk/Close telegram.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - закрой телеграмм
+  - выключи телеграмм
+  - отключи телеграмм
+  - закрой телеграм
+  - выключи телеграм
+  - отключи телеграм

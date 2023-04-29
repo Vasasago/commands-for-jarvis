@@ -1,0 +1,34 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Open voice recorder.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой диктофон
+  - покажи диктофон
+  - запусти диктофон
+  - диктофон
+  - запись звука
+  - начни запись звука
+  - начни запись
+
+- command:
+    action: ahk
+    exe_path: ahk/Close voice recorder.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - закрой диктофон
+  - отключи диктофон
+  - выключи диктофон
+  - заверши запись звука
+  - выключи запись звука
