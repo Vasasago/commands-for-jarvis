@@ -1,0 +1,87 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Run music.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой музыку
+  - запусти музыку
+  - включи музыку
+
+- command:
+    action: ahk
+    exe_path: ahk/Stop music.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - выключи музыку
+  - отключи музыку
+  - закрой музыку
+
+- command:
+    action: ahk
+    exe_path: ahk/Save music.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - сохрани музыку
+  - лайк
+  - лайкни трек
+  - лайкни этот трек
+  - сохрани этот трек
+  - мне нравится эта песня
+  - сохрани песню
+  - лайкни песню
+  - лайкни эту песню
+  - сохрани эту песню
+
+- command:
+    action: ahk
+    exe_path: ahk/Next music.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - переключи на следующий трек
+  - следующий трек
+  - переключи на следующую песню
+  - следующая песня
+  - включи следующую песню
+  - включи следующий трек
+
+- command:
+    action: ahk
+    exe_path: ahk/Prev music.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - переключи на предыдущий трек
+  - предыдущий трек
+  - переключи на предыдущую песню
+  - предыдущая песня
+  - включи предыдущую песню
+  - включи предыдущий трек

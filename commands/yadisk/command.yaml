@@ -1,0 +1,32 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Open disk.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой яндекс диск
+  - запусти яндекс диск
+  - открой облако
+  - запусти облако
+
+- command:
+    action: ahk
+    exe_path: ahk/Close disk.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - закрой яндекс диск
+  - выключи яндекс диск
+  - отключи яндекс диск
+  - закрой облако
+  - выключи облако
+  - отключи облако

@@ -1,0 +1,1 @@
+Run shell:AppsFolder\Yandex.Disk.Uploader

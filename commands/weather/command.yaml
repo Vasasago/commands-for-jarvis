@@ -1,0 +1,33 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Open weather.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой погоду
+  - покажи погоду
+  - запусти погоду
+  - погода
+  - какая сегодня погода
+
+- command:
+    action: ahk
+    exe_path: ahk/Close weather.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - закрой погоду
+  - отключи погоду
+  - выключи погоду
+  - закрой приложение погоды
+  - отключи приложение погоды
+  - выключи приложение погоды
