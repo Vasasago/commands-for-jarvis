@@ -1,1 +1,0 @@
-Run C:\Users\Vassago\AppData\Roaming\Telegram Desktop\Telegram.exe

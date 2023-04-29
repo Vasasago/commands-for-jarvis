@@ -1,1 +1,0 @@
-DllCall("LockWorkStation")

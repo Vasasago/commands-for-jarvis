@@ -1,1 +1,0 @@
-Run "https://vk.com"
