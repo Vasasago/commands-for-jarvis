@@ -180,3 +180,42 @@ list:
   - сделай тише
   - тише
   - сделай потише
+
+- command:
+    action: ahk
+    exe_path: ahk/Switch to headphones.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - переключи на наушники
+  - включи наушники
+  - дай звук на наушники
+  - звук на наушники
+  - звук в наушники
+
+- command:
+    action: ahk
+    exe_path: ahk/Switch to speakers.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - переключи на колонку
+  - включи колонку
+  - дай звук на колонку
+  - звук на колонку
+  - звук в колонку
+  - переключи на динамики
+  - включи динамики
+  - дай звук на динамики
+  - звук на динамики
+  - звук в динамики
