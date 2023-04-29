@@ -1,0 +1,1 @@
+Run shell:AppsFolder\com.squirrel.Discord.Discord

@@ -1,0 +1,29 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Open discord.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой дискорд
+  - запусти дискорд
+  - включи дискорд
+  - дискорд
+
+- command:
+    action: ahk
+    exe_path: ahk/Close discord.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - закрой дискорд
+  - отключи дискорд
+  - выключи дискорд
