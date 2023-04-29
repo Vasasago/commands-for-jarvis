@@ -1,0 +1,32 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Open calculator.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой калькулятор
+  - покажи калькулятор
+  - запусти калькулятор
+  - калькулятор
+
+- command:
+    action: ahk
+    exe_path: ahk/Close calculator.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - закрой калькулятор
+  - отключи калькулятор
+  - выключи калькулятор
+  - закрой приложение калькулятора
+  - отключи приложение калькулятора
+  - выключи приложение калькулятора

@@ -58,3 +58,59 @@ list:
   - запусти кино поиск
   - хочу посмотреть фильм
   - включи кино
+
+- command:
+    action: ahk
+    exe_path: ahk/Run mail.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой почту
+  - запусти почту
+  - включи почту
+  - почта
+
+- command:
+    action: ahk
+    exe_path: ahk/Run translater.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой переводчик
+  - запусти переводчик
+  - включи переводчик
+  - переводчик
+
+- command:
+    action: ahk
+    exe_path: ahk/Run vk.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой вконтакте
+  - запусти вконтакте
+  - включи вконтакте
+  - вконтакте
+  - открой в контакте
+  - запусти в контакте
+  - включи в контакте
+  - в контакте
+  - контакт
+  - открой контакт
+  - запусти контакт
+  - включи контакт

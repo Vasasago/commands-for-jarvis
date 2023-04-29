@@ -1,0 +1,182 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/pause.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - пауза
+  - поставь на паузу
+  - сними с паузы
+
+- command:
+    action: ahk
+    exe_path: ahk/fullscreen.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - во весь экран
+  - открой во весь экран
+  - полноэкранный режим
+  - выйди из полноэкранного режима
+
+- command:
+    action: ahk
+    exe_path: ahk/Next video.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - следующее видео
+  - включи следующее видео
+  - переключи на следующее видео
+
+- command:
+    action: ahk
+    exe_path: ahk/Mute volume.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - выключи звук
+  - беззвучный режим
+  - режим без звука
+  - отключи звук
+
+- command:
+    action: ahk
+    exe_path: ahk/Mute volume.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - включи звук
+  - режим со звуком
+  - верни звук
+
+- command:
+    action: ahk
+    exe_path: ahk/Set sound 20.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - звук двадцать
+  - громкость двадцать
+  - поставь звук на двадцать
+  - поставь громкость на двадцать
+  - установи звук на двадцать
+  - установи громкость на двадцать
+  - громкость на минимум
+  - поставь громкость на минимум
+  - звук на минимум
+
+- command:
+    action: ahk
+    exe_path: ahk/Set sound 50.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - звук пятьдесят
+  - громкость пятьдесят
+  - поставь звук на пятьдесят
+  - поставь громкость на пятьдесят
+  - установи звук на пятьдесят
+  - установи громкость на пятьдесят
+
+- command:
+    action: ahk
+    exe_path: ahk/Set sound 80.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - звук восемьдесят
+  - громкость восемьдесят
+  - поставь звук на восемьдесят
+  - поставь громкость на восемьдесят
+  - установи звук на восемьдесят
+  - установи громкость на восемьдесят
+
+- command:
+    action: ahk
+    exe_path: ahk/Set sound 100.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - звук сто
+  - громкость сто
+  - поставь звук на сто
+  - поставь громкость на сто
+  - установи звук на сто
+  - установи громкость на сто
+  - громкость на максимум
+  - установи громкость на максимум
+  - звук на максимум
+
+- command:
+    action: ahk
+    exe_path: ahk/Sound up.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - сделай громче
+  - громче
+  - сделай погромче
+
+- command:
+    action: ahk
+    exe_path: ahk/Sound down.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - сделай тише
+  - тише
+  - сделай потише
