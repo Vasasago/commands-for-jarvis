@@ -1,0 +1,1 @@
+Run, nircmd setdefaultsounddevice Speakers
