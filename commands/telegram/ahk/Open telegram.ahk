@@ -1,1 +1,2 @@
-Run C:\Users\Vassago\AppData\Roaming\Telegram Desktop\Telegram.exe
+user = % A_UserName
+Run C:\Users\%user%\AppData\Roaming\Telegram Desktop\Telegram.exe

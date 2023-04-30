@@ -1,0 +1,1 @@
+Send, {Control down}{f4}{Control up}
