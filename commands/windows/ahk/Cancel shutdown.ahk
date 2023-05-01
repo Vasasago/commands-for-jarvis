@@ -1,0 +1,1 @@
+Run, C:\Windows\System32\shutdown.exe -a
