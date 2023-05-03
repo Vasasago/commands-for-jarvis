@@ -18,6 +18,30 @@ list:
 
 - command:
     action: ahk
+    exe_path: ahk/Minimize current window.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - сверни текущее окно
+
+- command:
+    action: ahk
+    exe_path: ahk/Maximize current window.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - разверни текущее окно
+
+- command:
+    action: ahk
     exe_path: ahk/Empty trash.exe
     exe_args:
   voice:
