@@ -1,0 +1,1 @@
+Send, {Ctrl Down}&{3}{Ctrl Up}

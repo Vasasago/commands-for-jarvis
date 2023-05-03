@@ -1,0 +1,1 @@
+Send, {Control Down}&{Tab}{Control Up}
