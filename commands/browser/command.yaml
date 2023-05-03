@@ -141,3 +141,195 @@ list:
   phrases:
   - закрой вкладку
   - закрой текущую вкладку
+
+- command:
+    action: ahk
+    exe_path: ahk/Open ChatGPT.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой джой пяти
+  - открой часть же пяти
+  - открой чеджу пяти
+  - открой чат же пяти
+  - открой чат что пяти
+  - открой джорджа пяти
+  - открой что пяти
+  - открой джи пяти
+  - открой джипе тебя
+  - запусти джой пяти
+  - запусти часть же пяти
+  - запусти чеджу пяти
+  - запусти чат же пяти
+  - запусти чат что пяти
+  - запусти джорджа пяти
+  - запусти что пяти
+  - запусти джи пяти
+  - запусти джипе тебя
+
+- command:
+    action: ahk
+    exe_path: ahk/Tab right.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - переключи вправо
+  - вправо
+  - вкладку вправо
+
+- command:
+    action: ahk
+    exe_path: ahk/Tab left.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - переключи влево
+  - влево
+  - вкладку влево
+
+- command:
+    action: ahk
+    exe_path: ahk/Tab 1.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - переключи на первую вкладку
+  - включи первую вкладку
+  - открой первую вкладку
+  - первая вкладка
+
+- command:
+    action: ahk
+    exe_path: ahk/Tab 2.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - переключи на вторую вкладку
+  - включи вторую вкладку
+  - открой вторую вкладку
+  - вторая вкладка
+
+- command:
+    action: ahk
+    exe_path: ahk/Tab 3.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - переключи на третью вкладку
+  - включи третью вкладку
+  - открой третью вкладку
+  - третья вкладка
+
+- command:
+    action: ahk
+    exe_path: ahk/Tab 4.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - переключи на четвертую вкладку
+  - включи четвертую вкладку
+  - открой четвертую вкладку
+  - четвертая вкладка
+
+- command:
+    action: ahk
+    exe_path: ahk/Tab 5.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - переключи на пятую вкладку
+  - включи пятую вкладку
+  - открой пятую вкладку
+  - пятая вкладка
+
+- command:
+    action: ahk
+    exe_path: ahk/Tab 6.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - переключи на шестую вкладку
+  - включи шестую вкладку
+  - открой шестую вкладку
+  - шестая вкладка
+
+- command:
+    action: ahk
+    exe_path: ahk/Tab 7.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - переключи на седьмую вкладку
+  - включи седьмую вкладку
+  - открой седьмую вкладку
+  - седьмая вкладка
+
+- command:
+    action: ahk
+    exe_path: ahk/Tab 8.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - переключи на восьмую вкладку
+  - включи восьмую вкладку
+  - открой восьмую вкладку
+  - восьмая вкладка
+
+- command:
+    action: ahk
+    exe_path: ahk/Tab end.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - переключи на последнюю вкладку
+  - включи последнюю вкладку
+  - открой последнюю вкладку
+  - последняя вкладка
