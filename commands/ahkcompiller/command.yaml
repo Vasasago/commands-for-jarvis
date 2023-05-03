@@ -1,0 +1,29 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Open ahkcompiller.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой компилятор
+  - запусти компилятор
+  - покажи компилятор
+  - компилятор
+
+- command:
+    action: ahk
+    exe_path: ahk/Close ahkcompiller.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - закрой компилятор
+  - выключи компилятор
+  - отключи компилятор
