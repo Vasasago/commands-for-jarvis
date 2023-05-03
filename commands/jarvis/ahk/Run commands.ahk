@@ -1,0 +1,1 @@
+Run "C:\Program Files\jarvis-app\commands"

@@ -98,3 +98,44 @@ list:
   - смешной анекдот
   - это было весело
   - интересная шутка
+
+- command:
+    action: ahk
+    exe_path: ahk/Run location.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+  phrases:
+    - твое расположение
+    - надо поработать над тобой
+    - твоя папка
+    - твоя разработка
+
+- command:
+    action: ahk
+    exe_path: ahk/Run commands.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+  phrases:
+    - твои команды
+    - команды
+
+- command:
+    action: stop_chaining
+  voice:
+    sounds:
+    - thanks
+    - ok1
+  phrases:
+    - всё
+    - хватит
+    - отмена
+    - не слушай
+    - перестань слушать
+    - отдыхай
+    - на этом всё

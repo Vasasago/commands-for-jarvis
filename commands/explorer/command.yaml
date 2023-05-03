@@ -1,0 +1,29 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Open explorer.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой проводник
+  - запусти проводник
+  - покажи проводник
+  - проводник
+
+- command:
+    action: ahk
+    exe_path: ahk/Close explorer.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - закрой проводник
+  - выключи проводник
+  - отключи проводник

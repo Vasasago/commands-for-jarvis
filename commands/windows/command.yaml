@@ -11,6 +11,10 @@ list:
   phrases:
   - сверни все окна
   - сверни окна
+  - разверни все окна
+  - разверни окна
+  - покажи все окна
+  - покажи окна
 
 - command:
     action: ahk
@@ -68,6 +72,22 @@ list:
   - заверши работу
   - выруби комп
   - выключи комп
+
+- command:
+    action: ahk
+    exe_path: ahk/Cancel shutdown.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - отмени выключение
+  - отмени завершение работы
+  - отмени выключение компьютер
+  - отмени выключение компа
+  - отмена выключения
 
 - command:
     action: ahk
@@ -151,3 +171,54 @@ list:
   - поменяй язык на русский
   - смени язык на английский
   - поменяй язык на английский
+
+- command:
+    action: ahk
+    exe_path: ahk/Open downloads.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой загрузки
+  - запусти загрузки
+  - покажи загрузки
+  - загрузки
+
+- command:
+    action: ahk
+    exe_path: ahk/Open settings.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой параметры
+  - запусти параметры
+  - покажи параметры
+  - открой настройки
+  - запусти настройки
+  - покажи настройки
+  - параметры
+  - настройки
+
+- command:
+    action: ahk
+    exe_path: ahk/Close settings.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - закрой параметры
+  - выключи параметры
+  - отключи параметры
+  - закрой настройки
+  - выключи настройки
+  - отключи настройки
