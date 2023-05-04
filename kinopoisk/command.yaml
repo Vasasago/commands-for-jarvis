@@ -1,0 +1,33 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Run kinopoisk.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой кинопоиск
+  - открой кино поиск
+  - запусти кинопоиск
+  - запусти кино поиск
+  - хочу посмотреть фильм
+  - включи кино
+
+- command:
+    action: ahk
+    exe_path: ahk/Run film.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - включи
+  - включай
+  - смотреть
