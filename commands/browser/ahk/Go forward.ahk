@@ -1,0 +1,1 @@
+Send, {Alt Down}&{Right}{Alt Up}
