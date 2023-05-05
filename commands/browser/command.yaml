@@ -28,6 +28,32 @@ list:
 
 - command:
     action: ahk
+    exe_path: ahk/Go back.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - вернись назад
+
+- command:
+    action: ahk
+    exe_path: ahk/Go forward.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - вернись вперед
+
+- command:
+    action: ahk
     exe_path: ahk/Run youtube.exe
     exe_args:
   voice:
@@ -40,25 +66,7 @@ list:
   - открой ютуб
   - ютуб
   - запусти ютуб
-
-- command:
-    action: ahk
-    exe_path: ahk/Run kinopoisk.exe
-    exe_args:
-  voice:
-    sounds:
-    - ok1
-    - ok2
-    - ok3
-    - ok4
-  phrases:
-  - открой кинопоиск
-  - открой кино поиск
-  - запусти кинопоиск
-  - запусти кино поиск
-  - хочу посмотреть фильм
-  - включи кино
-
+  
 - command:
     action: ahk
     exe_path: ahk/Run mail.exe
