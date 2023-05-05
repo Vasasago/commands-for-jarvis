@@ -27,3 +27,33 @@ document.addEventListener('keydown', function(event) {
     clickElementByXPath('//*[@id="__next"]/div[2]/div[1]/header/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div[1]/a');
   }
 });
+
+document.addEventListener('keydown', function(event) {
+  if (event.ctrlKey && event.altKey && event.code === 'KeyF') {
+    clickElementByXPath('//*[@id="__next"]/div[2]/div[1]/header/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div[2]/a');
+  }
+});
+
+document.addEventListener('keydown', function(event) {
+  if (event.ctrlKey && event.altKey && event.code === 'KeyG') {
+    clickElementByXPath('//*[@id="__next"]/div[2]/div[1]/header/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div[3]/a');
+  }
+});
+
+document.addEventListener('keydown', function(event) {
+  if (event.ctrlKey && event.altKey && event.code === 'KeyH') {
+    clickElementByXPath('//*[@id="__next"]/div[2]/div[1]/header/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div[4]/a');
+  }
+});
+
+document.addEventListener('keydown', function(event) {
+  if (event.ctrlKey && event.altKey && event.code === 'KeyJ') {
+    clickElementByXPath('//*[@id="__next"]/div[2]/div[1]/header/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div[5]/a');
+  }
+});
+
+document.addEventListener('keydown', function(event) {
+  if (event.ctrlKey && event.altKey && event.code === 'KeyK') {
+    clickElementByXPath('//*[@id="__next"]/div[2]/div[1]/header/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div[6]/a');
+  }
+});

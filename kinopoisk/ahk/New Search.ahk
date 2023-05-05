@@ -1,12 +1,9 @@
-Run, "https://hd.kinopoisk.ru"
-
-sleep 10000
-
-Send, {Ctrl Down}&{Shift Down}&{Alt Down}&{A}{Ctrl Up}{Shift Up}{Alt Up}
-Send, {Ctrl Down}&{Shift Down}&{Alt Down}&{A}{Ctrl Up}{Shift Up}{Alt Up}
 Send, {Ctrl Down}&{Shift Down}&{Alt Down}&{A}{Ctrl Up}{Shift Up}{Alt Up}
 
-sleep 1000
+Loop, 100
+{
+	Send, {Backspace}
+}
 
 SoundBeep, 350, 100
 SoundBeep, 500, 100
