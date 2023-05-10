@@ -69,6 +69,21 @@ list:
 
 - command:
     action: ahk
+    exe_path: ahk/Run youtube.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой ютуб
+  - ютуб
+  - запусти ютуб
+
+- command:
+    action: ahk
     exe_path: ahk/Run film.exe
     exe_args:
   voice:
