@@ -1,0 +1,268 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Run lordfilm.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой лордфильм
+  - открой лорд фильм
+  - запусти лордфильм
+  - запусти лорд фильм
+
+- command:
+    action: ahk
+    exe_path: ahk/Run ivi.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой иви
+  - открой и ви
+  - запусти иви
+  - запусти и ви
+
+- command:
+    action: ahk
+    exe_path: ahk/Run kinopoisk.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой кинопоиск
+  - открой кино поиск
+  - запусти кинопоиск
+  - запусти кино поиск
+
+- command:
+    action: ahk
+    exe_path: ahk/Run hdrezka.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой эйч ди резко
+  - открой почти резко
+  - запусти эйч ди резко
+  - запусти почти резко
+  - открой иди резко
+  - открой жди резко
+  - запусти иди резко
+  - запусти жди резко
+
+- command:
+    action: ahk
+    exe_path: ahk/Run youtube.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой ютуб
+  - ютуб
+  - запусти ютуб
+
+- command:
+    action: ahk
+    exe_path: ahk/Run film.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - включи
+  - включай
+  - смотреть
+
+- command:
+    action: ahk
+    exe_path: ahk/Open film 1.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер один
+
+- command:
+    action: ahk
+    exe_path: ahk/Open film 2.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер два
+
+- command:
+    action: ahk
+    exe_path: ahk/Open film 3.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер три
+
+- command:
+    action: ahk
+    exe_path: ahk/Open film 4.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер четыре
+
+- command:
+    action: ahk
+    exe_path: ahk/Open film 5.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер пять
+
+- command:
+    action: ahk
+    exe_path: ahk/Open film 6.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер шесть
+
+- command:
+    action: ahk
+    exe_path: ahk/Open film 7.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер семь
+
+- command:
+    action: ahk
+    exe_path: ahk/Open film 8.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер восемь
+
+- command:
+    action: ahk
+    exe_path: ahk/Open film 9.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер девять
+
+- command:
+    action: ahk
+    exe_path: ahk/Open film 10.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер десять
+
+- command:
+    action: ahk
+    exe_path: ahk/Open film 11.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер одиннадцать
+
+- command:
+    action: ahk
+    exe_path: ahk/Open film 12.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - номер двенадцать
+
+- command:
+    action: ahk
+    exe_path: ahk/New Search.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - новый запрос
+  - поиск
