@@ -1,0 +1,2 @@
+Открыть погоду:Open weather
+Закрыть погоду:Close weather
