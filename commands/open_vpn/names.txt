@@ -1,0 +1,2 @@
+Включить VPN:Open VPN
+Выключить VPN:Close VPN
