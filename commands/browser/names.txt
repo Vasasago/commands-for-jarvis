@@ -1,0 +1,21 @@
+Закрыть браузер:Close browser
+Закрыть вкладку:Close tab
+Назад:Go back
+Вперёд:Go forward
+Открыть ChatGPT:Open ChatGPT
+Открыть браузер:Run browser
+Открыть почту:Run mail
+Открыть переводчик:Run translater
+Открыть ВКонтакте:Run vk
+Вкладка 1:Tab 1
+Вкладка 2:Tab 2
+Вкладка 3:Tab 3
+Вкладка 4:Tab 4
+Вкладка 5:Tab 5
+Вкладка 6:Tab 6
+Вкладка 7:Tab 7
+Вкладка 8:Tab 8
+Последняя вкладка:Tab end
+Вкладку влево:Tab left
+Вкладку вправо:Tab right
+Обновить страницу:Update tab
