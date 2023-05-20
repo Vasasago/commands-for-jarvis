@@ -1,0 +1,2 @@
+Открыть проводник:Open explorer
+Закрыть проводник:Close explorer
