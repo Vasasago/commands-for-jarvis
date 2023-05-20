@@ -1,0 +1,2 @@
+Открыть калькулятор:Open calculator
+Закрыть калькулятор:Close calculator
