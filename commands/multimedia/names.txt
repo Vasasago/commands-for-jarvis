@@ -1,0 +1,14 @@
+Полноэкранный режим:fullscreen
+Вкл/Выкл звук:Mute volume
+Следующее видео:next video
+Пауза:pause
+Перемотка влево:Rewind left
+Перемотка вправо:Rewind right
+Громкость 20:Set sound 20
+Громкость 50:Set sound 50
+Громкость 80:Set sound 80
+Громкость 100:Set sound 100
+Сделать тише:Sound down
+Сделать громче:Sound up
+Переключить на наушники:Switch to headphones
+Переключить на колонку:Switch to speakers
