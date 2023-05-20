@@ -1,0 +1,5 @@
+Следующий трек:Next music
+Предыдущий трек:Prev music
+Включить музыку:Run music
+Сохранить трек:Save music
+Выключить музыку:Stop music
