@@ -1,0 +1,2 @@
+Открыть Telegram:Open telegram
+Закрыть Telegram:Close telegram
