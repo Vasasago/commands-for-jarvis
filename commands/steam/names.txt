@@ -1,0 +1,2 @@
+Открыть Steam:Open steam
+Закрыть Steam:Close steam
