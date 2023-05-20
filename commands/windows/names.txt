@@ -1,0 +1,16 @@
+Заблокировать пк:blocking
+Отмена выключения:Cancel shutdown
+Буфер обмена:clipboard
+Закрыть настройки:Close settings
+Очистить корзину:Empty trash
+Текущее окно на весь экран:Maximize current window
+Свернуть текущее окно:Minimize current window
+Открыть загрузки:Open downloads
+Открыть настройки:Open settings
+Перезагрузка:reload
+Свернуть все окна:Roll up windows
+Сделать скриншот:screenshot
+Сменить язык:Set language
+Выключить пк:shutdown
+Спящий режим:sleep
+Открыть диспетчер задач:Task manager open
