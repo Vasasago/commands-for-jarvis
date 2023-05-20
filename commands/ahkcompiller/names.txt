@@ -1,0 +1,2 @@
+Открыть компилятор:Open ahkcompiller
+Закрыть компилятор:Close ahkcompiller
